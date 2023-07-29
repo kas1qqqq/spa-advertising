@@ -8,8 +8,8 @@ Developed desktop and mobile versions only.
 
 
 ## Screenshots
+Some of the screens.
 
 ![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/29861553/256986538-ec9e153a-dffc-4dea-b9d8-ecd470d7b00c.png)
 
 ![App Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/29861553/256986652-7b046763-f652-4d3f-b074-98168b8b1ac5.png)
-
