@@ -2,6 +2,8 @@
 
 The site is a single-page application for marketing companies that salles its stuff.
 
+Developed desktop and mobile versions only.
+
 #### To see all high-quality SVG images, you must download the repository on a local machine and run index.html.
 
 
